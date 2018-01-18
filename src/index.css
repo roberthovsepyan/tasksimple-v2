@@ -1,0 +1,26 @@
+body {
+  margin: 1em 2em 2em 2em;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.head {
+  text-align: center;
+  margin: 15px
+}
+
+.button {
+  margin: 0 0 3em 0;
+}
+
+.notFound {
+  text-align: center;
+}
+
+div > .draggable {
+  cursor: grab
+}
+
+div > .dragging {
+  cursor: grabbing
+}
